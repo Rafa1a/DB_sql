@@ -1,7 +1,7 @@
 # Criando um banco de dados para um sistema de comércio eletrônico
 
 Este projeto está usando o SQL Server como seu banco de dados e usando o SQL Server Management Studio como sua ferramenta para gerenciar o banco de dados.
-
+ 
 ## Estrutura do Projeto
 PROCEDIMENTO 1 :[Clique aqui ](PDFs/Procedimento1.pdf)para baixar o arquivo PDF explicando o procedimento 1, com o primeiro teste, repostas de perguntas do aprendizado.<br><br>
 PROCEDIMENTO 2 : [Clique aqui ](PDFs/Procedimento2.pdf)para baixar o arquivo PDF explicando o procedimento 2 main FINAL, e com as respostas das perguntas do aprendizado que tive neste nivel.<br><br>
